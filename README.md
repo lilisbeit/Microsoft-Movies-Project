@@ -15,8 +15,6 @@ Microsoft wants to enter the movie business as a creator of original content.  M
 
 To measure a film's popularity, I used the product of its average rating and the number of people who rated it.  To find the most popular genres, I calculated the median popularity value for each genre.  I discovered that the most popular movie genres among IMDb users are Action, Crime, and Adventure.  I also analyzed the length of movies in these genres, and found that a longer runtime is correlated with increased popularity.  I then found the 30 actors and directors who have made the most popular movies in these genres.  
 
-![picture of streaming service brand logos](images/streaming-brands)
-
 ## Business Problem
 
 Microsoft sees big tech companies such as Amazon, Netflix, and Hulu successfully drawing customers with streaming video services featuring original content, and so has decided to enter the streaming space.  Microsoft hopes to lure subscribers with original movies, but doesn't know anything about how to make movies that are highly rated and appeal to a wide audience.  They need to generate a few "big win" movies to kickstart their entry into the streaming arena.
@@ -24,8 +22,6 @@ Microsoft sees big tech companies such as Amazon, Netflix, and Hulu successfully
 ## Data
 
 To analyze this problem, I used data from IMDb, the Internet Movie Database.  IMDb contains information on over 140,000 movies, including actors, genres, runtimes, and ratings.  While IMDb does collect information from filmakers, the bulk of its data are submitted by  individuals in the movie industry and visitors to the IMDb website.  
-
-![picture of streaming service brand logos](images/streaming-brands.jpeg)
 
 ## Results
 
@@ -39,13 +35,13 @@ Action, Crime, and Adventure emerge as the three most popular genres.
 
 In all three of the most popular genres, the median length of the top 25% of movies by popularity was significantly (11-15 minutes) longer than the median length of the bottom 75%.  Microsoft should aim for their movies to be between 105 and 110 minutes long.
 
-![alt text](genre-runtime-chart)
+![alt text](runtime-chart.png)
 
 ### Let's get recruiting!
 
 This analysis provides Microsoft with lists of actors and directors who draw large audiences and make highly rated films in all three top genres.  To create a few "big win" movies to build its brand, Microsoft should consider recruiting these individuals.
 
-
+![alt text](statham) ![alt text](lawrence)
 
 ## Conclusions
 
