@@ -15,7 +15,7 @@ Microsoft wants to enter the movie business as a creator of original content.  M
 
 To measure a film's popularity, I used the product of its average rating and the number of people who rated it.  To find the most popular genres, I calculated the median popularity value for each genre.  I discovered that the most popular movie genres among IMDb users are Action, Crime, and Adventure.  I also analyzed the length of movies in these genres, and found that a longer runtime is correlated with increased popularity.  I then found the 30 actors and directors who have made the most popular movies in these genres.  
 
-![picture of streaming service brand logos](images/streaming-brands.jpeg)
+![picture of streaming service brand logos](images/streaming-brands)
 
 ## Business Problem
 
@@ -39,11 +39,11 @@ Action, Crime, and Adventure emerge as the three most popular genres.
 
 In all three of the most popular genres, the median length of the top 25% of movies by popularity was significantly (11-15 minutes) longer than the median length of the bottom 75%.  Microsoft should aim for their movies to be between 105 and 110 minutes long.
 
-
+![alt text](genre-runtime-chart)
 
 ### Let's get recruiting!
 
-This analysis provides Microsoft with lists of actors and directors who draw large audiences and make highly rated films.  To create a few "big win" movies to build its brand, Microsoft should consider recruiting these individuals.
+This analysis provides Microsoft with lists of actors and directors who draw large audiences and make highly rated films in all three top genres.  To create a few "big win" movies to build its brand, Microsoft should consider recruiting these individuals.
 
 
 
@@ -51,17 +51,15 @@ This analysis provides Microsoft with lists of actors and directors who draw lar
 
 ### Recommendations:
 
-- To successfully break into the streaming movie business, Microsoft should focus on Action, Crime, and Adventure movies.  These genres have the highest median popularity, defined as a movie's average rating times the number of people who rated it.
+- To successfully break into the streaming movie business, Microsoft should focus on Action, Crime, and Adventure movies
 
-- Microsoft should make movies that are around 105-110 minutes long.  In all three of the top genres, the median length of the top 25% of movies have runtimes in this range.  The bottom 75% of movies have median runtimes around 90-97 minutes.
+- Microsoft should make movies that are around 105-110 minutes long
 
-- I provided lists of the actors and directors who have made the most popular movies in each of the top three genres.  For this part of the analysis, "popular movies" is defined as movies in the top 5% of popularity among all movies.  I then found which actors and directors were associated with movies in the top 3 genres within this top 5%.  These lists can serve as a starting point for recruiting actors and directors who are highly rated and draw a large audience.
+- Microsfot should recruit actors and directors from the "Top 30" lists provided.  These individuals make movies that are highly rated and draw a large audience.
 
 ### Further investigation:
 
-While this analysis provides some direction for Microsoft, other questions should be answered to fully solve this business problem.
+-  Although runtime is correlated with ratings and popularity, it's not clear that increased runtime is the cause of increased popularity.  Both factors might share a common cause, such as a large production budget.
 
-For example, although runtime is correlated with ratings and popularity, it's not clear that increased runtime is the cause of increased popularity.  Both factors might share a common cause, such as a large production budget.
-
-In general, a budget analysis by genre would be helpful so Microsoft can predict the return on investment of its movies.  While they need a few hit movies to lure new customers, eventually they will need to make the subscription service profitable.  It is possible that the most popular genres are also the most expensive, and that by going down a few notches to Romance or Mystery, they could achieve greater profitability.
+- A budget analysis by genre would be helpful so Microsoft can predict the return on investment of its movies.  It is possible that the most popular genres are also the most expensive, and that by going down a few notches to Romance or Mystery, Microsoft could achieve greater profitability.
 
