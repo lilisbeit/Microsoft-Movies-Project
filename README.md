@@ -33,7 +33,7 @@ To analyze this problem, I used data from IMDb, the Internet Movie Database.  IM
 
 Action, Crime, and Adventure emerge as the three most popular genres.  
 
-![picture of streaming service brand logos](images/median-pop-by-genre.png)
+![bar graph ranking movie genres by popularity](images/median-pop-by-genre.png)
 
 ### Longer movies win!
 
