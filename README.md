@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # Microsoft Streaming Movies Analysis
 
 **Author:** Lili Beit
 ***
 
-![alt text](/Users/lilibeit/Documents/Flatiron/Microsoft Movies Project/images/movie_viewers.jpeg)
+![alt text](../Users/lilibeit/Documents/Flatiron/Microsoft Movies Project/images/movie_viewers.jpeg)
 
 ## Overview
 
