@@ -35,13 +35,13 @@ Action, Crime, and Adventure emerge as the three most popular genres.
 
 In all three of the most popular genres, the median length of the top 25% of movies by popularity was significantly (11-15 minutes) longer than the median length of the bottom 75%.  Microsoft should aim for their movies to be between 105 and 110 minutes long.
 
-![alt text](runtime-chart.png)
+![alt text](images/runtime-chart.png)
 
 ### Let's get recruiting!
 
-This analysis provides Microsoft with lists of actors and directors who draw large audiences and make highly rated films in all three top genres.  To create a few "big win" movies to build its brand, Microsoft should consider recruiting these individuals.
+To create a few "big win" movies to build its brand, Microsoft should consider recruiting actors and directors who have a track record of success in the top 3 genres.  This analysis provides the top 30 actors and directors in Action, Crime, and Adventure.  These individuals make movies that are highly rated and draw a large audience.
 
-![alt text](statham) ![alt text](lawrence)
+![alt text](images/statham) ![alt text](images/lawrence)
 
 ## Conclusions
 
@@ -51,7 +51,7 @@ This analysis provides Microsoft with lists of actors and directors who draw lar
 
 - Microsoft should make movies that are around 105-110 minutes long
 
-- Microsfot should recruit actors and directors from the "Top 30" lists provided.  These individuals make movies that are highly rated and draw a large audience.
+- Microsoft should recruit actors and directors from the "Top 30" lists provided
 
 ### Further investigation:
 
