@@ -35,13 +35,13 @@ Action, Crime, and Adventure emerge as the three most popular genres.
 
 In all three of the most popular genres, the median length of the top 25% of movies by popularity was significantly (11-15 minutes) longer than the median length of the bottom 75%.  Microsoft should aim for their movies to be between 105 and 110 minutes long.
 
-![alt text](images/runtime-chart.png)
+![Chart showing median runtimes for popular and unpopular movies.  For popular movies, runtimes are 110, 106, and 105 minutes long for Action, Crime, and Adventure movies respectively.  For unpopular movies in the same genres, runtimes are 97, 95, and 90 minutes.](images/runtime-chart.png)
 
 ### Let's get recruiting!
 
 To create a few "big win" movies to build its brand, Microsoft should consider recruiting actors and directors who have a track record of success in the top 3 genres.  This analysis provides the top 30 actors and directors in Action, Crime, and Adventure.  These individuals make movies that are highly rated and draw a large audience.
 
-![alt text](images/statham) ![alt text](images/lawrence)
+![picture of Jason Statham](images/statham.jpeg) ![picture of Jennifer Lawrence](images/lawrence.jpeg)
 
 ## Conclusions
 
