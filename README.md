@@ -13,7 +13,7 @@ Microsoft wants to enter the movie business as a creator of original content.  M
 2. Does the length of a movie affect its ratings and popularity?
 3. Who are the top actors and directors in the popular genres?
 
-The most popular movie genres among IMDb users are Action, Crime, and Adventure.  I also analyzed the length of movies in these genres, and found that a longer runtime is correlated with increased popularity.  I then found the 30 actors and directors who have made the most popular movies in these genres.  
+The most popular movie genres among IMDb users are Action, Crime, and Adventure.  I also analyzed the length of movies in these genres, and found that a longer runtime is correlated with increased popularity.  I then found the 10 actors and directors who have made the most popular movies in these genres.  
 
 ## Business Problem
 
@@ -21,7 +21,7 @@ Microsoft sees big tech companies such as Amazon, Netflix, and Hulu successfully
 
 ## Data
 
-To analyze this problem, I used data from IMDb, the Internet Movie Database.  IMDb contains information on over 140,000 movies, including actors, genres, runtimes, and ratings.  While IMDb does collect information from filmakers, the bulk of its data are submitted by  individuals in the movie industry and visitors to the IMDb website.  To measure a film's popularity, I used the product of its average rating by IMDb users and the number of people who rated it.
+To analyze this problem, I used data from IMDb, the Internet Movie Database.  IMDb contains information on over 140,000 movies, including actors, genres, runtimes, and ratings.  While IMDb does collect information from filmakers, the bulk of its data are submitted by individuals in the movie industry and visitors to the IMDb website.  To measure a film's popularity, I used the product of its average rating by IMDb users and the number of people who rated it.
 
 ## Results
 
@@ -33,13 +33,13 @@ Action, Crime, and Adventure emerge as the three most popular genres.
 
 ### Longer movies win!
 
-In all three of the most popular genres, the median length of the top 25% of movies by popularity was significantly (11-15 minutes) longer than the median length of the bottom 75%.  Microsoft should aim for their movies to be between 105 and 110 minutes long.
+In all three of the most popular genres, the median length of the top 25% of movies by popularity was 11-15 minutes longer than the median length of the bottom 75%.  Microsoft should aim for their movies to be between 105 and 110 minutes long.
 
 ![Chart showing median runtimes for popular and unpopular movies.  For popular movies, runtimes are 110, 106, and 105 minutes long for Action, Crime, and Adventure movies respectively.  For unpopular movies in the same genres, runtimes are 97, 95, and 90 minutes.](images/runtime-chart.png)
 
 ### Let's get recruiting!
 
-To create a few "big win" movies to build its brand, Microsoft should consider recruiting actors and directors who have a track record of success in the top 3 genres.  This analysis provides the top 30 actors and directors in Action, Crime, and Adventure.  These individuals make movies that are highly rated and draw a large audience.
+To create a few "big win" movies to build its brand, Microsoft should consider recruiting actors and directors who have a track record of success in the top 3 genres.  This analysis provides the top 10 actors and directors in Action, Crime, and Adventure.  These individuals make movies that are highly rated and draw a large audience.
 
 ![picture of Jason Statham](images/statham.jpeg) ![picture of Jennifer Lawrence](images/lawrence.jpeg)
 
@@ -51,7 +51,7 @@ To create a few "big win" movies to build its brand, Microsoft should consider r
 
 - Microsoft should make movies that are around 105-110 minutes long
 
-- Microsoft should recruit actors and directors from the "Top 30" lists provided
+- Microsoft should recruit actors and directors from the "Top 10" lists provided
 
 ### Further investigation:
 
